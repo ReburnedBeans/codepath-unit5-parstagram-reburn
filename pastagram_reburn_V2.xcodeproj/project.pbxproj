@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B3D036C828F4B0FB00847686 /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3D036C728F4B0FB00847686 /* CommentCell.swift */; };
 		B3FC06E928F0718B0015C269 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3FC06E828F0718B0015C269 /* AppDelegate.swift */; };
 		B3FC06EB28F0718B0015C269 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3FC06EA28F0718B0015C269 /* SceneDelegate.swift */; };
 		B3FC06F028F0718B0015C269 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B3FC06EE28F0718B0015C269 /* Main.storyboard */; };
@@ -41,6 +42,7 @@
 /* Begin PBXFileReference section */
 		6EEA7FCC76B4C1DFACF28D1C /* Pods-pastagram_reburn_V2.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pastagram_reburn_V2.debug.xcconfig"; path = "Target Support Files/Pods-pastagram_reburn_V2/Pods-pastagram_reburn_V2.debug.xcconfig"; sourceTree = "<group>"; };
 		85404BE4F24608C4A220ECAD /* Pods-pastagram_reburn_V2.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-pastagram_reburn_V2.release.xcconfig"; path = "Target Support Files/Pods-pastagram_reburn_V2/Pods-pastagram_reburn_V2.release.xcconfig"; sourceTree = "<group>"; };
+		B3D036C728F4B0FB00847686 /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		B3FC06E528F0718B0015C269 /* pastagram_reburn_V2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = pastagram_reburn_V2.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B3FC06E828F0718B0015C269 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B3FC06EA28F0718B0015C269 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -130,6 +132,7 @@
 				B3FC072F28F074260015C269 /* FeedViewController.swift */,
 				B3FC073428F07BA30015C269 /* CameraViewController.swift */,
 				B3FC073928F086D60015C269 /* PostCell.swift */,
+				B3D036C728F4B0FB00847686 /* CommentCell.swift */,
 			);
 			path = pastagram_reburn_V2;
 			sourceTree = "<group>";
@@ -341,6 +344,7 @@
 				B3FC073028F074260015C269 /* FeedViewController.swift in Sources */,
 				B3FC06EB28F0718B0015C269 /* SceneDelegate.swift in Sources */,
 				B3FC073A28F086D60015C269 /* PostCell.swift in Sources */,
+				B3D036C828F4B0FB00847686 /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

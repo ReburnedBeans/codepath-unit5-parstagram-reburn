@@ -8,5 +8,6 @@ target 'pastagram_reburn_V2' do
   # Pods for pastagram_reburn_V2
   pod 'Parse'
   pod 'AlamofireImage'
+  pod 'MessageInputBar'
 
 end
